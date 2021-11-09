@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993227074454",
+    "project_id": "vmau-quizapp",
+    "storage_bucket": "vmau-quizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993227074454:android:79cead6575bdbd47cb8bb7",
+        "android_client_info": {
+          "package_name": "com.example.vmau_quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993227074454-bjsgecrc7iln6cfifunm6j6m2qajeukc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0SfY-qjemv7bsKoIT6utM-auzw8zUbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993227074454-bjsgecrc7iln6cfifunm6j6m2qajeukc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
